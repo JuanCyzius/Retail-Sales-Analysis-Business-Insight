@@ -96,4 +96,5 @@ Sales distribution by department and section
 Customer purchasing behavior
 Key business KPIs
 
-<img width="1411" height="791" alt="image" src="https://github.com/user-attachments/assets/2a2ba9d6-51c1-4942-82c5-e75b5ee69d6a" />
+<img width="1402" height="774" alt="image" src="https://github.com/user-attachments/assets/4b5d940e-fbbc-4b22-9474-6c6542bf2c12" />
+
